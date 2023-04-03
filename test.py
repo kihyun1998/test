@@ -1,2 +1,1 @@
-print("박기현")
-print("test")
+print("민지원")
